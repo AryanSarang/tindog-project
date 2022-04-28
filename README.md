@@ -1,2 +1,1 @@
-# tindog-project
-find love of your dog
+TinDog Starting Files
